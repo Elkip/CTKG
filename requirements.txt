@@ -1,0 +1,6 @@
+# PYTHON 3.8 MUST BE USED
+pip install torch==2.4.1 --index-url https://download.pytorch.org/whl/cpu
+# If you have installed dgl-cuXX package, please uninstall it first.
+pip install  dgl==0.4.3 -f https://data.dgl.ai/wheels/torch-2.4/repo.html
+dglke
+GPUtil
